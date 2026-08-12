@@ -1,16 +1,21 @@
 ## Hi there 👋
+## 🛠️ Skills
 
-<!--
-**Yashwanth7065/Yashwanth7065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 **Programming:** Python, Java, C, C++
+* 🌐 **Web Development:** HTML, CSS, JavaScript, React
+* 🗄️ **Database:** MySQL, MongoDB
+* 🔧 **Tools & Technologies:** Git, GitHub, VS Code
+* 🧠 **Core Skills:** Problem Solving, Data Structures & Algorithms, Object-Oriented Programming
+* 🤝 **Soft Skills:** Communication, Teamwork, Leadership, Time Management
 
-Here are some ideas to get you started:
+## 🏆 Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🥇 Participated in and successfully completed [24 hours Ideathon]
+* 🎓 Completed certifications in [Cisco/Operating systems]
+* 💻 Developed and published multiple projects on GitHub
+* 📜 Completed [Python for data science] from [NPTEL]
+* ⭐ Actively contributed to open-source projects and coding communities
+
+## 📊 GitHub Stats
+
+
