@@ -29,30 +29,5 @@ I'm passionate about software development, programming, and Artificial Intellige
 * 📜 Completed **Cisco certification**
 * 🚀 Continuously learning and building new projects
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth7065&show_icons=true&theme=radical&hide_border=true" alt="Yashwanth's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth7065&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth7065&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p
-  
-🎯 Goals
-Build real-world software projects
-Strengthen my programming and problem-solving skills
-Explore Artificial Intelligence & Machine Learning
-Contribute to open-source projects
-Continuously learn and grow as a 
-
-📫 Connect With Me
-
-📧 Email: myashwanth_cse2405g8@mgit.ac.in
-
 
 
