@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi there, I'm Your Name!
+# 👋 Hi there, I'm Yashwanth!
 
 * 💻 I'm passionate about **Software Development & DevOps**
 * 🚀 Currently learning **Web Development, Git, GitHub, and Cloud Technologies**
@@ -23,20 +23,16 @@
 
 ## 🏆 Achievements
 
-* 🥇 Participated in **[Hackathon/Competition Name]**
-* 📜 Completed **[Certification Name]**
-* 💻 Built and published **[Project Name]**
-* 🏅 Achieved **[Rank/Prize]** in **[Competition Name]**
-* 🌟 Completed **[Course/Program]**
+* 🥇 Participated in **24 Hours Ideathon**
+* 📜 Completed **Cisco certification**
 * 🚀 Continuously learning and building new projects
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth7065&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth7065&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -44,18 +40,6 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Yashwanth7065&theme=radical" />
 </p>
 
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: **[Your LinkedIn]**
-* 📧 Email: **[Your Email]**
-* 🌐 Portfolio: **[Your Portfolio]**
-* 🐙 GitHub: **[Your GitHub]**
-
----
-
-⭐ **Thanks for visiting my profile!**
