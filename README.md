@@ -1,12 +1,14 @@
 ## Hi there 👋
 # 👋 Hi there, I'm Yashwanth!
 
-* 💻 I'm passionate about **Software Development & DevOps**
-* 🚀 Currently learning **Web Development, Git, GitHub, and Cloud Technologies**
-* 🌱 Exploring **Java, Python, JavaScript, React, and DevOps**
-* 🎯 Interested in building real-world projects and improving my problem-solving skills
-* ⚡ Fun Fact: I enjoy turning ideas into working projects!
+🎓 B.Tech Computer Science Engineering Student
 
+I'm passionate about software development, programming, and Artificial Intelligence & Machine Learning. I enjoy learning new technologies, building projects, and improving my problem-solving skills.
+
+🚀 Currently Learning
+🤖 Artificial Intelligence & Machine Learning
+💻 Developing practical programming skills
+🌐 Web technologies
 
 ## 🛠️ Skills & Tools
 
@@ -27,7 +29,30 @@
 * 📜 Completed **Cisco certification**
 * 🚀 Continuously learning and building new projects
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Java&logoColor=Orange&label=Java&labelColor=white&color=green)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth7065&show_icons=true&theme=radical&hide_border=true" alt="Yashwanth's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth7065&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth7065&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p
+  
+🎯 Goals
+Build real-world software projects
+Strengthen my programming and problem-solving skills
+Explore Artificial Intelligence & Machine Learning
+Contribute to open-source projects
+Continuously learn and grow as a 
+
+📫 Connect With Me
+
+📧 Email: myashwanth_cse2405g8@mgit.ac.in
 
 
 
