@@ -27,5 +27,6 @@
 * 📜 Completed **Cisco certification**
 * 🚀 Continuously learning and building new projects
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
