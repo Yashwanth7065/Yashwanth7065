@@ -28,18 +28,4 @@
 * 🚀 Continuously learning and building new projects
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth7065&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth7065&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yashwanth7065&theme=radical" />
-</p>
 
