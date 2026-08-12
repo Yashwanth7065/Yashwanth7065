@@ -22,6 +22,9 @@ I'm passionate about software development, programming, and Artificial Intellige
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
+## GitHub Stats
+![GitHub Stats](https://github-readmestats.vercel.app/api?username=Yashwanth7065&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=Yashwanth7065&layout=compact)
 
 ## 🏆 Achievements
 
