@@ -1,21 +1,61 @@
 ## Hi there 👋
-## 🛠️ Skills
+# 👋 Hi there, I'm Your Name!
 
-* 💻 **Programming:** Python, Java, C, C++
-* 🌐 **Web Development:** HTML, CSS, JavaScript, React
-* 🗄️ **Database:** MySQL, MongoDB
-* 🔧 **Tools & Technologies:** Git, GitHub, VS Code
-* 🧠 **Core Skills:** Problem Solving, Data Structures & Algorithms, Object-Oriented Programming
-* 🤝 **Soft Skills:** Communication, Teamwork, Leadership, Time Management
+* 💻 I'm passionate about **Software Development & DevOps**
+* 🚀 Currently learning **Web Development, Git, GitHub, and Cloud Technologies**
+* 🌱 Exploring **Java, Python, JavaScript, React, and DevOps**
+* 🎯 Interested in building real-world projects and improving my problem-solving skills
+* ⚡ Fun Fact: I enjoy turning ideas into working projects!
+
+
+## 🛠️ Skills & Tools
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
 
 ## 🏆 Achievements
 
-* 🥇 Participated in and successfully completed [24 hours Ideathon]
-* 🎓 Completed certifications in [Cisco/Operating systems]
-* 💻 Developed and published multiple projects on GitHub
-* 📜 Completed [Python for data science] from [NPTEL]
-* ⭐ Actively contributed to open-source projects and coding communities
+* 🥇 Participated in **[Hackathon/Competition Name]**
+* 📜 Completed **[Certification Name]**
+* 💻 Built and published **[Project Name]**
+* 🏅 Achieved **[Rank/Prize]** in **[Competition Name]**
+* 🌟 Completed **[Course/Program]**
+* 🚀 Continuously learning and building new projects
+
+---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180"/>
+</p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: **[Your LinkedIn]**
+* 📧 Email: **[Your Email]**
+* 🌐 Portfolio: **[Your Portfolio]**
+* 🐙 GitHub: **[Your GitHub]**
+
+---
+
+⭐ **Thanks for visiting my profile!**
